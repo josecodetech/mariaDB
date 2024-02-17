@@ -1,0 +1,1 @@
+UPDATE Estudiantes SET Edad = 22 WHERE EstudianteID = 1;
