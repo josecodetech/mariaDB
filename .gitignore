@@ -1,0 +1,7 @@
+.lib/
+temp/
+*.temp
+pass.*
+*.exe
+/config
+env/
