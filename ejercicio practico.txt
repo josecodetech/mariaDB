@@ -1,0 +1,16 @@
+Diseña una base de datos para gestionar la información de los empleados de una empresa. La base de datos debe incluir al menos las siguientes entidades:
+
+    Empleados: Deben almacenarse datos como el ID del empleado, nombre, apellido, fecha de nacimiento, género, puesto, salario, y fecha de contratación.
+    Departamentos: Deben almacenarse datos como el ID del departamento, nombre del departamento y ubicación.
+    Proyectos: Deben almacenarse datos como el ID del proyecto, nombre del proyecto, fecha de inicio, fecha de finalización y el ID del departamento al que pertenece.
+
+Crea las tablas correspondientes con las relaciones apropiadas entre ellas. Una vez creada la estructura de la base de datos, inserta datos de ejemplo en cada una de las tablas.
+
+Luego, escribe consultas SQL para realizar las siguientes operaciones:
+
+    Obtener todos los empleados que pertenecen a un departamento específico.
+    Obtener todos los empleados que trabajan en un proyecto en particular.
+    Actualizar el salario de un empleado en base a su ID.
+    Eliminar un proyecto en base a su ID.
+
+Comparte una captura de pantalla de tus consultas SQL ejecutadas en la base de datos utilizando la herramienta de administración de base de datos de tu elección. Asegúrate de etiquetar tu publicación en las redes sociales con el hashtag #cursoMariaDB de #josecodetech.
